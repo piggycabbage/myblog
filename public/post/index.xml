@@ -1,24 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on 绾妤</title>
-        <link>http://localhost:1313/post/</link>
-        <description>Recent content in Posts on 绾妤</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>piggy🐷</copyright>
-        <lastBuildDate>Sat, 22 Feb 2025 22:04:20 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>不要对这个世界失望</title>
-        <link>http://localhost:1313/p/%E4%B8%8D%E8%A6%81%E5%AF%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%A4%B1%E6%9C%9B/</link>
-        <pubDate>Sat, 22 Feb 2025 22:04:20 +0800</pubDate>
-        
-        <guid>http://localhost:1313/p/%E4%B8%8D%E8%A6%81%E5%AF%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%A4%B1%E6%9C%9B/</guid>
-        <description>&lt;p&gt;最后一次核对完仓库月报时，夕阳正斜斜切过半开的百叶窗。我对着屏幕上的运输路线图按下Ctrl+S，Excel表格里凝固的数字突然在脑海中翻涌成流动的河——那些被《供应链管理》教材框定的公式，此刻正在Jupyter Notebook里生长出新的枝桠。当同龄人忙着考取物流师证时，我悄悄在GitHub仓库埋下第一颗种子：用Python重构那套锈迹斑斑的库存预测模型。&lt;/p&gt;
-&lt;p&gt;深夜的共享办公间飘着速溶咖啡与打印机油墨的混浊。当第十二次被时间序列预测的残差图击溃，窗外高架桥上川流的货车正与我的代码共享某种相似的颠簸。删除掉课程设计里花哨的SWOT分析，我在注释栏写下：&amp;ldquo;真正的物流革命，或许就藏在两个标准差之外的异常值里。&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;梅雨季的货轮靠港前夕，我的路径优化算法终于啃下港口集装箱堆场的庞杂数据。那些被切割成碎片的课余时间，此刻化作交互界面里跳动的三维坐标点。当首个实测配送方案缩短17%运输里程时，潮湿的玻璃幕墙上，我看见自己与半年前那个只会用Excel数据透视表的影子重叠又分离。&lt;/p&gt;
-&lt;p&gt;在货架编码与代码行号交织的迷雾中，我触摸到现代物流的另一种叙事语法。那些被视作不务正业的深夜调试，实则是用另一种语言解构供应链的熵增定律——就像最优路径永远诞生于无数次试错，职业赛道的突围，往往始于坐标系与算法参数的微妙共振。当集装箱的锈味渗进程式注释，我忽然懂得：真正的智慧物流，不过是人类对效率之美的永恒偏执。&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 绾妤</title><link>https://example.com/post/</link><description>Recent content in Posts on 绾妤</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>piggy🐷</copyright><lastBuildDate>Sat, 22 Feb 2025 22:54:05 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>不要对这个世界失望</title><link>https://example.com/p/%E4%B8%8D%E8%A6%81%E5%AF%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%A4%B1%E6%9C%9B/</link><pubDate>Sat, 22 Feb 2025 22:04:20 +0800</pubDate><guid>https://example.com/p/%E4%B8%8D%E8%A6%81%E5%AF%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%A4%B1%E6%9C%9B/</guid><description>&lt;p>最后一次核对完仓库月报时，夕阳正斜斜切过半开的百叶窗。我对着屏幕上的运输路线图按下Ctrl+S，Excel表格里凝固的数字突然在脑海中翻涌成流动的河——那些被《供应链管理》教材框定的公式，此刻正在Jupyter Notebook里生长出新的枝桠。当同龄人忙着考取物流师证时，我悄悄在GitHub仓库埋下第一颗种子：用Python重构那套锈迹斑斑的库存预测模型。&lt;/p>
+&lt;p>深夜的共享办公间飘着速溶咖啡与打印机油墨的混浊。当第十二次被时间序列预测的残差图击溃，窗外高架桥上川流的货车正与我的代码共享某种相似的颠簸。删除掉课程设计里花哨的SWOT分析，我在注释栏写下：&amp;ldquo;真正的物流革命，或许就藏在两个标准差之外的异常值里。&amp;rdquo;&lt;/p>
+&lt;p>梅雨季的货轮靠港前夕，我的路径优化算法终于啃下港口集装箱堆场的庞杂数据。那些被切割成碎片的课余时间，此刻化作交互界面里跳动的三维坐标点。当首个实测配送方案缩短17%运输里程时，潮湿的玻璃幕墙上，我看见自己与半年前那个只会用Excel数据透视表的影子重叠又分离。&lt;/p>
+&lt;p>在货架编码与代码行号交织的迷雾中，我触摸到现代物流的另一种叙事语法。那些被视作不务正业的深夜调试，实则是用另一种语言解构供应链的熵增定律——就像最优路径永远诞生于无数次试错，职业赛道的突围，往往始于坐标系与算法参数的微妙共振。当集装箱的锈味渗进程式注释，我忽然懂得：真正的智慧物流，不过是人类对效率之美的永恒偏执。&lt;/p></description></item><item><title>不要对这个世界失望</title><link>https://example.com/p/%E4%B8%8D%E8%A6%81%E5%AF%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%A4%B1%E6%9C%9B/</link><pubDate>Sat, 22 Feb 2025 22:04:20 +0800</pubDate><guid>https://example.com/p/%E4%B8%8D%E8%A6%81%E5%AF%B9%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E5%A4%B1%E6%9C%9B/</guid><description>&lt;p>最后一次核对完仓库月报时，夕阳正斜斜切过半开的百叶窗。我对着屏幕上的运输路线图按下Ctrl+S，Excel表格里凝固的数字突然在脑海中翻涌成流动的河——那些被《供应链管理》教材框定的公式，此刻正在Jupyter Notebook里生长出新的枝桠。当同龄人忙着考取物流师证时，我悄悄在GitHub仓库埋下第一颗种子：用Python重构那套锈迹斑斑的库存预测模型。&lt;/p>
+&lt;p>深夜的共享办公间飘着速溶咖啡与打印机油墨的混浊。当第十二次被时间序列预测的残差图击溃，窗外高架桥上川流的货车正与我的代码共享某种相似的颠簸。删除掉课程设计里花哨的SWOT分析，我在注释栏写下：&amp;ldquo;真正的物流革命，或许就藏在两个标准差之外的异常值里。&amp;rdquo;&lt;/p>
+&lt;p>梅雨季的货轮靠港前夕，我的路径优化算法终于啃下港口集装箱堆场的庞杂数据。那些被切割成碎片的课余时间，此刻化作交互界面里跳动的三维坐标点。当首个实测配送方案缩短17%运输里程时，潮湿的玻璃幕墙上，我看见自己与半年前那个只会用Excel数据透视表的影子重叠又分离。&lt;/p>
+&lt;p>在货架编码与代码行号交织的迷雾中，我触摸到现代物流的另一种叙事语法。那些被视作不务正业的深夜调试，实则是用另一种语言解构供应链的熵增定律——就像最优路径永远诞生于无数次试错，职业赛道的突围，往往始于坐标系与算法参数的微妙共振。当集装箱的锈味渗进程式注释，我忽然懂得：真正的智慧物流，不过是人类对效率之美的永恒偏执。&lt;/p></description></item></channel></rss>
